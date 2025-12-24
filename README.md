@@ -4,12 +4,12 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PostGIS](https://img.shields.io/badge/PostGIS-Enabled-green)
 
-## 📌 Project Overview
+## Project Overview
 **NYC Safety Analytics** is a spatial data science project that investigates homicide patterns in New York City. Unlike traditional analysis that focuses solely on crime *volume*, this project utilizes **Spatial Intensity Metrics (Incidents per km²)** to reveal hidden high-risk zones.
 
 ---
 
-## 🔍 Key Findings & Insights
+## Key Findings & Insights
 
 ### 1. The Density Paradox
 * **The Insight:** High crime volume does not always equal high risk.
