@@ -1,4 +1,4 @@
-# Python-generated files
+# Python internals
 __pycache__/
 *.py[oc]
 build/
@@ -8,7 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+ENV/
 
-
-.env
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Environment Variables 
+.env
+
+
